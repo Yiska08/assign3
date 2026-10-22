@@ -1,0 +1,6 @@
+Write down every significant action that you take, including installing and configuring components as well as any code that you write.
+
+replaced starter code with square function - 1:00 AM
+
+
+

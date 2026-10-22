@@ -5,3 +5,15 @@ replaced starter code with square function - 1:21 AM
 created three x buttons in a row - 1:35 AM
 
 made a complete tictactoe board - 1:44 AM
+
+played around with default export - named it to keke - 1:53 AM
+
+without {} parameters will be an object, curly braces is a like a pointer
+
+jsx only pass in strings or components 
+
+installed typescripts and switched app.jsx to tsx for ease of development - 2:38 AM
+
+replaced the values of each box with parameter - 2:40 AM
+destructuring an object using the curly braces
+
